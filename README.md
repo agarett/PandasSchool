@@ -1,5 +1,4 @@
-# PandasSchool
-Pandas school data project 
+# Pandas School
 
 This project invovled manipulating school data from 15 schools to reveal average student test scores and passing rates, and compare those across schools. 
 
